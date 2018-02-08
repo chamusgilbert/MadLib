@@ -1,0 +1,7 @@
+Hello, I'm Makyre.
+I am {0} and {1}. I give my brothers a hard time about their {2} {3}.
+I have a handful of {4} hobbies. I like to {5} LEGOs, {6} my guitar, in fact I'm in a {7} band.
+We play {8} shows a month and travel to {9} locations, like {10} and {11}.
+I dont sleep a ton... so at night I {12}. I {12} all night and if anyone sees me,
+I will not {13} them, I will probably {14} them instead.
+I rock at {15} and have a pet {16} that likes to {17}.
