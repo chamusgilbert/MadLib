@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\bin\Debug\MadLib.pdb
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\obj\Debug\MadLib.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\obj\Debug\MadLib.exe
+C:\Users\Grand Circus Student\source\repos\MadLib\MadLib\obj\Debug\MadLib.pdb
