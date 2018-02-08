@@ -11,6 +11,13 @@ namespace MadLib
             string noun = Console.ReadLine();
             return noun;
         }
+        public static string GetPNoun()
+        {
+            Console.WriteLine("Give me a Plural Noun");
+            Console.WriteLine("That is many Persons, Places or things");
+            string noun = Console.ReadLine();
+            return noun;
+        }
         public static string GetVerb()
         {
             Console.WriteLine("Give me a Verb");

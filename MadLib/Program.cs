@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Raston.RastonLibs();
+            Tekoah.TekoahLibs();
+
         }
     }
 }
